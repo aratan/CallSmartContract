@@ -1,3 +1,4 @@
+// Victor Manuel Arbiol Martinez [ España ] https://github.com/aratan/CallSmartContract
 function smartcontract(contractAddress, contractABI, providerKey, functionName, outputElementId) {
     var web3 = new Web3(new Web3.providers.HttpProvider(providerKey));
 
