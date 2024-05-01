@@ -1,6 +1,9 @@
 # CallSmartContract
-Llamadas a SmartContract
+Llamadas tipo Call (sin gasto de gas) a SmartContract 
 
+### Importa la libreria
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.34/dist/web3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/aratan/CallSmartContract@main/CallSmartContract.js"></script>
 
 ### Desde el html solo hay que configurar los datos de conexión
 - Direcciñon de SmartContract
